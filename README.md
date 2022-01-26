@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @brenda-li
-- 👀 I’m interested in process automation.
+- 👀 I’m interested in robotics process automation, data engineering, and data analytics. For fun, I like exploring national parks, reading, and classical music.
 - 🌱 I’m currently learning SQL, Python, and Tableau.
-- 💞️ I’m looking to collaborate on data analytics projects!
 - 📫 How to reach me: https://www.linkedin.com/in/bl257/
