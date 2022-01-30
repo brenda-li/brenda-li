@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @brenda-li
-- 👀 I’m interested in robotics process automation, data engineering, and data analytics. For fun, I like exploring national parks, reading, and classical music.
+- 👀 I’m interested in robotics process automation, data engineering, and data analytics. For fun, I like exploring national parks, reading on my Kindle, and classical music.
 - 🌱 I’m currently learning SQL, Python, and Tableau.
 - 📫 How to reach me: https://www.linkedin.com/in/bl257/
